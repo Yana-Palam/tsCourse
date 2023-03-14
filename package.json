@@ -1,0 +1,24 @@
+{
+  "name": "tscourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yana-Palam/tsCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yana-Palam/tsCourse/issues"
+  },
+  "homepage": "https://github.com/Yana-Palam/tsCourse#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
